@@ -12,4 +12,5 @@ Aim: Help developers understand what type of apps are likely to attract more use
 
 Data:
 - ~10K Android apps from Google Play: https://www.kaggle.com/lava18/google-play-store-apps/home
+
 -~7K iOS apps from the App Store: https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home
